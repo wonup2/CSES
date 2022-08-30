@@ -20,6 +20,8 @@ public class CSES1071NumberSpiral {
 			solve();
 		}
 		System.out.println(sb.toString());
+		
+		in.close();
 	}
 	
 	static void init() throws IOException {
