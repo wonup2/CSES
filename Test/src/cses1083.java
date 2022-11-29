@@ -1,7 +1,6 @@
 import java.util.*;
-import java.io.*;
 
-public class CSES1083MissingNumber {
+public class cses1083 {
 
 	static Scanner in;
 	static long n;
